@@ -1,0 +1,3 @@
+[submodule "external/airpi"]
+	path = external/airpi
+	url = https://github.com/sertschgi/airpi.git
